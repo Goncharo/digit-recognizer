@@ -1,6 +1,6 @@
 # digit-recognizer
 
-A basic neural network for recognizing hand written digits for the corresponding [Kaggle Competition]("https://www.kaggle.com/c/digit-recognizer")
+A basic neural network for recognizing hand written digits for the corresponding [Kaggle Competition](https://www.kaggle.com/c/digit-recognizer).
 
 ## usage
 
